@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "sinon": "^14.0.0"
+  }
+}

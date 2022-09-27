@@ -1,0 +1,13 @@
+unit testing
+integration testing
+functional testing / e2e
+
+load testing
+security testing
+...
+
+
+===================================
+jest, mocha, jasmine, node:test
+expect, chai, assert, node:assert
+sinon, ...
